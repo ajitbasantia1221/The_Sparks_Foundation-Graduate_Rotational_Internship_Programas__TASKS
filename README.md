@@ -17,6 +17,9 @@
 Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile Submit the LinkedIn link in Task Submission Form when shared with you.
 
 
+
+
+
 2) PREDICTION USING UNSUPERVISED MACHINE LEARNING
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
@@ -28,3 +31,20 @@ Host the code on GitHub Repository (public). Record the code and output in a vid
 ● Task submission:
 
 Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile Submit the LinkedIn link in Task Submission Form when shared with you.
+
+
+
+
+6)  Prediction using Decision Tree Algorithm
+
+● For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+● Dataset : https://bit.ly/3kXTdox
+
+● Task submission:
+
+Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile Submit the LinkedIn link in Task Submission Form when shared with you.
+
+
