@@ -1,6 +1,6 @@
 # The_Sparks_Foundation-Graduate_Rotational_Internship_Programas__TASKS
 
-1) PREDICTION USING SUPERVISED MACHINE LEARNING
+# 1) PREDICTION USING SUPERVISED MACHINE LEARNING
 
 ● Predict the percentage of marks of an student based on the number of study hours
 
@@ -20,7 +20,7 @@ Host the code on GitHub Repository (public). Record the code and output in a vid
 
 
 
-2) PREDICTION USING UNSUPERVISED MACHINE LEARNING
+# 2) PREDICTION USING UNSUPERVISED MACHINE LEARNING
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
@@ -35,7 +35,7 @@ Host the code on GitHub Repository (public). Record the code and output in a vid
 
 
 
-6)  Prediction using Decision Tree Algorithm
+# 6)  PREDICTION USING DECISION TREE ALGORITHM
 
 ● For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 
