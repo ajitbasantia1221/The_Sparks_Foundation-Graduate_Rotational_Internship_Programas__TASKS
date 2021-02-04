@@ -1,4 +1,4 @@
-# The_Sparks_Foundation-Graduate_Rotational_Internship_Programas__TASKS
+# The_Sparks_Foundation-Graduate_Rotational_Internship_Program__TASKS
 
 ## 1) PREDICTION USING SUPERVISED MACHINE LEARNING
 
